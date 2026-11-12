@@ -1,0 +1,16 @@
+title                    : "Junteng Liu"
+name                     : "Junteng Liu"
+description              : "Junteng Liu's personal website"
+url                      : https://legendpiazza91.github.io/LJT-Homepage
+baseurl                  : ""
+repository               : "LegendPiazza91/LJT-Homepage"
+
+author:
+  name             : "Junteng Liu"
+  bio              : "First-year PhD candidate at HKUST NLP Group"
+  location         : "Hong Kong"
+  employer         : "HKUST"
+  email            : "jliugi@connect.ust.hk"
+  github           : "Vicent0205"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+  twitter          : "junteng88716710"
